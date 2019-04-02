@@ -1,0 +1,23 @@
+body{
+    color:black;
+    background-color:gray;
+    
+}
+
+#container{
+    background-color: gray;
+    margin: 0 auto;
+}
+
+aside{
+    width: 250px;
+    background-color:gray;
+    border: 2px black solid;
+    float: left;
+    padding-left: 15px;
+}
+
+footer{
+    background-color: white;
+    clear: both;
+}
